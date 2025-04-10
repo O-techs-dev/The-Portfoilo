@@ -1,0 +1,87 @@
+body{
+    background-color: #000;
+    color: #ffffff;
+}
+.menu-btn{
+    display: flex;
+    float: right;
+    border: 0.5px solid rgb(255, 255, 255) ;
+     position: relative;
+     fill: white;
+     
+}
+.Contact-form{
+    background-color: #0000003d;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 30px;
+    line-height: 1;
+    top: 100px;
+    position: relative;
+    margin-top: 10%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+}
+h1{
+    text-align: center;
+    top: 110px;
+    position: relative;
+}
+form{
+    text-align: left;
+    
+}
+.Contact-form head{
+    text-align: center;
+    color:#000;
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+input[type="text"],
+input[text="email"],
+input[type="sumbit"],
+textarea{
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ffffff;
+    border-radius: px;
+}
+input[type="text"]{
+    width: 80%;
+    border: 50%;
+    border-radius: 5px;
+}
+input[type="sumbit"]{
+background-color: #333;
+color: #ffffff;
+padding: 10px 15px;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+margin-top: 10px;
+}
+input[type="sumbit"]:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.send{
+    float: right;
+    right: 0px;
+    position: relative;
+}
+@media (min-width: 375px) {
+ .send{
+    right: 8px;
+ }   
+}
+@media (min-width: 425px) {
+    .send{
+       right: 12px;
+    }   
+   }
