@@ -518,7 +518,7 @@ footer{
       margin: 0px;
       margin-top: 0px;
         color: white;
-        font-size: 15px;
+        font-size: large;
       }
       .sidebar{
         font-size: large;
@@ -591,6 +591,62 @@ footer{
       }
       .emoji{
         width: 20px;
+      }
+      .line2{
+        font-size: 60px;
+      }
+      .line3-1{
+        font-size: 110px;
+      }
+      .every{
+        font-size: large;
+        bottom: 120px;
+      }
+      .mbl-img{
+        width: 200px;
+      }
+      .line2-1{
+        font-size: 60px;
+      }
+      .line2-2{
+        font-size: larger;
+      }
+      .space{
+        font-size: x-large;
+      }
+      .f4{
+        font-size: large;
+      }
+      .f1-1{
+        font-size: large;
+      }
+      .f3{
+        font-size: large;
+      }
+      .fb{
+        width: 60px;
+      }
+      .ig{
+        width: 50px;
+      }
+      .x{
+        width: 60px;
+      }
+      .whatsapp{
+        width: 60px;
+      }
+      .lindin{
+        width: 70px;
+      }
+      .svg1{
+        width: 25px;
+        height: 50px;
+      }
+      .side-textr{
+        font-size: large;
+      }
+      .fot{
+        font-size: larger;
       }
 }
 
