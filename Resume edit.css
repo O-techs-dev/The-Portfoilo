@@ -228,8 +228,17 @@ button{
   padding-top: 20px;
 }
 .emoji{
-     width: 15px;
+     width: 30px;
           
+}
+.b6{
+  color: red;
+}
+.b4{
+  color: blue;
+}
+.b5{
+  color: orange;
 }
 .line3-1{
     font-size: 30px;
@@ -620,6 +629,39 @@ footer{
         .divi{
           display: none;
         }
-      
+        .f4{
+          font-size: large;
+        }
+        .f1-1{
+          font-size: large;
+        }
+        .f3{
+          font-size: large;
+        }
+        .fb{
+          width: 60px;
+        }
+        .ig{
+          width: 50px;
+        }
+        .x{
+          width: 60px;
+        }
+        .whatsapp{
+          width: 60px;
+        }
+        .lindin{
+          width: 70px;
+        }
+        .svg1{
+          width: 25px;
+          height: 50px;
+        }
+        .side-textr{
+          font-size: large;
+        }
+        .fot{
+          font-size: larger;
+        }
         
     }
