@@ -1,4 +1,4 @@
-*{
+ *{
     padding: 2px;
     margin: 0px 0px;  
 }
@@ -13,6 +13,9 @@ body{
 body.dark-mode {
     background-color: #202020;
     color: white;
+    .b1{
+      color: white;
+    }
   }
 
 nav ul{
@@ -273,16 +276,16 @@ font-size: larger;
   gap: 50px;
  justify-content: center;
 }
-.as{
+.as{ 
   padding-bottom: 50px;
 }
 .logo-img{
-  max-width: 100px;
+  max-width: 120px;
   display: block;
 }
 .logo-img2{
   display: block;  
-  max-width: 100px;
+  max-width: 120px;
 }
 
 #pop{
@@ -290,7 +293,7 @@ font-size: larger;
   top: 40%;
   left: 50%;
   transform: translate(-50%,-50%);
-  width: 600px;
+  width: 290px;
   padding: 50px;
   box-shadow: 0 5px 40px rgba(0,0,0,.30);
   background:none;
@@ -317,7 +320,7 @@ font-size: larger;
   top: 40%;
   left: 50%;
   transform: translate(-50%,-50%);
-  width: 600px;
+  width: 290px;
   padding: 50px;
   box-shadow: 0 5px 40px rgba(0,0,0,.30);
   background:none;
@@ -340,12 +343,16 @@ font-size: larger;
 }
 
 .open-image{
-width: 500px;
+width: 250px;
+top: 20px;
+left: 20px;
+position: relative;
 }
 
 .menu-btn1{
   display: flex;
   float: right;
+  bottom: 30px;
   border: 0.5px solid rgb(255, 255, 255) ;
    position: relative;
    fill: white;
@@ -489,7 +496,7 @@ footer{
       margin: 0px;
       margin-top: 0px;
         color: white;
-        font-size: 15px;
+         font-size: large;
       }
    
       .sidebar{
@@ -531,7 +538,7 @@ footer{
       font-size: 35px;
     }
     .line3{
-      font-size: medium;
+      font-size: large;
     }
     .out{
       font-size: small;
@@ -554,6 +561,36 @@ footer{
       gap:0px;
       max-width: 160px;
     }
+    .line2{
+      font-size: 60px;
+    }
+    .line2-1{
+      font-size:60px;
+    }
+    .line2-2{
+      font-size: large;
+    }
+    .line2-3{
+      font-size: large;
+    }
+    .line2-4{
+      font-size: large;
+    }
+    .line3-1{
+      font-size: 60px;
+    }
+    .line3-3{
+      font-size: large;
+    }
+    .line4-1{
+      font-size: 60px;
+    }
+    .line4-2{
+      font-size: large;
+    }
+    .as{
+      font-size: large;
+    }
     .frth-pg{
       columns:400px;
     }
@@ -563,7 +600,49 @@ footer{
     .mail{
       width: 25px;
     }
-    
+    #pop{
+      width: 550px;
+    }
+    #pops{
+      width: 550px;
+    }
+    .open-image{
+      width: 450px;
+    }
+    .f4{
+      font-size: large;
+    }
+    .f1-1{
+      font-size: large;
+    }
+    .f3{
+      font-size: large;
+    }
+    .fb{
+      width: 60px;
+    }
+    .ig{
+      width: 55px;
+    }
+    .x{
+      width: 60px;
+    }
+    .whatsapp{
+      width: 60px;
+    }
+    .lindin{
+      width: 70px;
+    }
+    .svg1{
+      width: 25px;
+      height: 50px;
+    }
+    .side-textr{
+      font-size: large;
+    }
+    .fot{
+      font-size: larger;
+    }
 }
 
 @media (min-width: 1024px) {
@@ -701,5 +780,8 @@ footer{
 }
 .mail{
   width: 30px;
+}
+.open-image{
+  width: 500px;
 }
 }
