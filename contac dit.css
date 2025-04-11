@@ -1,4 +1,4 @@
-*{
+ *{
   padding: 2px;
   margin: 0px 0px;  
 }
@@ -152,7 +152,6 @@ line-height: 2;
 }
 .emoji{
 width: 10px;
-
 }
 .divi{
 color:rgba(161, 161, 161, 0.486) ;
@@ -591,7 +590,7 @@ footer{
           margin: 0px;
           margin-top: 0px;
             color: white;
-            font-size: 15px;
+            font-size: large;
           }
           .sidebar{
             font-size: large;
@@ -642,5 +641,72 @@ footer{
         }
         .logo{
           gap: 100px;
+        }
+        .side-textr{
+          font-size: large;
+        }
+        .line2{
+          font-size: 45px;
+        }
+        .line2-2{
+          font-size: large;
+        }
+        .line3-1{
+          font-size: 60px;
+        }
+        .line3-2{
+          font-size: large;
+        }
+        .line3-3{
+          font-size: large;
+        }
+        .side-textrr{
+          font-size:large ;
+        }
+        .bottom-line2{
+          width: 200px;
+        }
+        .bottom-line3{
+          width: 200px;
+        }
+        .bottom-line4{
+          width: 200px;
+        }
+        .bottom-line5{
+          width: 200px;
+        }
+        .f4{
+          font-size: large;
+        }
+        .f1-1{
+          font-size: large;
+        }
+        .f3{
+          font-size: large;
+        }
+        .fb{
+          width: 60px;
+        }
+        .ig{
+          width: 50px;
+        }
+        .x{
+          width: 60px;
+        }
+        .whatsapp{
+          width: 60px;
+        }
+        .lindin{
+          width: 70px;
+        }
+        .svg1{
+          width: 25px;
+          height: 50px;
+        }
+        .side-textr{
+          font-size: large;
+        }
+        .fot{
+          font-size: larger;
         }
     }
